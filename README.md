@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @RaphaelKieti
+# 👋 Hi, I’m Raphael Kieti
 
 Welcome to my GitHub profile! I'm a passionate third-year student pursuing a **Bachelor of Science in Business Information Technology** at **Meru University of Science and Technology**. I also have a growing interest in **web development**, **app development**, and **software development**, and I'm always excited to take on new challenges that enhance my skills.
 
