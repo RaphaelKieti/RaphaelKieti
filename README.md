@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate third-year student pursuing a **B
 
 ## 📫 How to reach me...
 - Email: [keyeighty6860@gmail.com](mailto:keyeighty6860@gmail.com)
+- WhatsApp: [Chat with me on WhatsApp](https://wa.me/254758400416)
 
 ## 😄 Pronouns:
 - He/Him
@@ -33,3 +34,4 @@ Welcome to my GitHub profile! I'm a passionate third-year student pursuing a **B
 RaphaelKieti/RaphaelKieti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
